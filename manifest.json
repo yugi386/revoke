@@ -1,27 +1,27 @@
 {
-  "active_filter_id": "filter-1779373911886422800",
+  "active_filter_id": "filter-1779379884942638955",
   "false_positive_power": 32,
   "filters": [
     {
       "capacity_limit": 363408,
       "closed_at": null,
-      "created_at": 1779373911,
-      "download_url": "/filters/filter-1779373911886422800",
+      "created_at": 1779379884,
+      "download_url": "/filters/filter-1779379884942638955",
       "encoding": "base64",
-      "file_name": "filter-1779373911886422800.bloom",
-      "filter_id": "filter-1779373911886422800",
+      "file_name": "filter-1779379884942638955.bloom",
+      "filter_id": "filter-1779379884942638955",
       "inserted_count": 0,
       "k": 32,
       "m_bits": 16777216,
       "sha256_base64": "UFNTCE87o6+zgZp5EDFKf+vXCMd4BNPjrdfIln7qEeE=",
       "status": "active",
-      "updated_at": 1779373911,
+      "updated_at": 1779379884,
       "window_start_max": null,
       "window_start_min": null
     }
   ],
   "public_base_url": null,
   "service": "bfilter",
-  "updated_at": 1779373911,
+  "updated_at": 1779379885,
   "version": 1
 }
