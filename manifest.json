@@ -10,18 +10,18 @@
       "encoding": "base64",
       "file_name": "filter-1779386273037582330.bloom",
       "filter_id": "filter-1779386273037582330",
-      "inserted_count": 0,
+      "inserted_count": 271,
       "k": 32,
       "m_bits": 16777216,
-      "sha256_base64": "UFNTCE87o6+zgZp5EDFKf+vXCMd4BNPjrdfIln7qEeE=",
+      "sha256_base64": "Hhgyqum0QURYnsvDJzwKIkNw3w0R9JV2IqA2ddlE8js=",
       "status": "active",
-      "updated_at": 1779386273,
-      "window_start_max": null,
-      "window_start_min": null
+      "updated_at": 1779387614,
+      "window_start_max": 1811699065,
+      "window_start_min": 1788371065
     }
   ],
   "public_base_url": null,
   "service": "bfilter",
-  "updated_at": 1779386273,
+  "updated_at": 1779387614,
   "version": 1
 }
